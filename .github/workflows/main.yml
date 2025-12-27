@@ -26,4 +26,3 @@ jobs:
         with:
           name: LUCROCEL-App-Instalador
           path: app/build/outputs/apk/debug/app-debug.apk
-
