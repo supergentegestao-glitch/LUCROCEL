@@ -1,7 +1,6 @@
 name: Gerar APK LUCROCEL
 
-on:
-  workflow_dispatch: # Botão manual para gerar o APK
+on: workflow_dispatch
 
 jobs:
   build:
